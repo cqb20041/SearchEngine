@@ -1,0 +1,18 @@
+dict_path /home/chenqinbin/learn.C++/8_SearchEngine/data/dict.dat
+
+index_path /home/chenqinbin/learn.C++/8_SearchEngine/data/index.dat
+
+en_corpora_path /home/chenqinbin/learn.C++/8_SearchEngine/data/en_corpora
+cn_corpora_path /home/chenqinbin/learn.C++/8_SearchEngine/data/cn_corpora
+
+en_stopwords_path /home/chenqinbin/learn.C++/8_SearchEngine/data/en_stopwords.txt
+cn_stopwords_path /home/chenqinbin/learn.C++/8_SearchEngine/data/cn_stopwords.txt
+
+xml_path /home/chenqinbin/learn.C++/8_SearchEngine/data/xml
+
+page_lib_path /home/chenqinbin/learn.C++/8_SearchEngine/data/page_lib.dat
+offset_lib_path /home/chenqinbin/learn.C++/8_SearchEngine/data/offset_lib.dat
+invert_index_path /home/chenqinbin/learn.C++/8_SearchEngine/data/invert_index.dat
+
+mylogger_path /home/chenqinbin/learn.C++/8_SearchEngine/log/RollingFile.txt
+clientlogger_path /home/chenqinbin/learn.C++/8_SearchEngine/log/ClientRollingFile.txt
